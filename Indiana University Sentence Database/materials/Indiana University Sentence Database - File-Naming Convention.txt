@@ -1,0 +1,23 @@
+Indiana University Sentence Database File-Naming Convention
+
+IUS-GXX2YY
+	where:
+		IUS = Indiana University Sentence Database acronym
+		G = Gender (F = female, M = male)
+		XX = Sentence number
+		2 = Medium speaking rate (these sentences only exist in medium)
+		YY = Participant/talker number
+
+Example: IUS-M69201.wav
+	IUS = Indiana University Sentence Database
+	M = Male
+	69 = Sentence 69
+	2 = Medium speaking rate
+	01 = Participant/talker #1
+	
+Example: IUS-F15217.wav
+	IUS = Indiana University Sentence Database
+	F = Female
+	15 = Sentence 15
+	2 = Medium speaking rate
+	17 = Participant/talker #17

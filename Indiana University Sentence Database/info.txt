@@ -1,0 +1,6 @@
+Indiana University Sentence Database 
+
+Overview:
+
+- 100 IEEE/Harvard sentences recorded by 21 native American English talkers (11 male, 10 female)
+- Associated intelligibility data from: 10 listeners per talker in the clear (no noise) single talker presentation format (randomized for each listener)

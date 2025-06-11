@@ -1,0 +1,101 @@
+List, Item, Order
+List 1,The birch canoe slid on the smooth planks.,1
+List 1,Glue the sheet to the dark blue background.,2
+List 1,It's easy to tell the depth of a well.,3
+List 1,These days a chicken leg is a rare dish.,4
+List 1,Rice is often served in round bowls.,5
+List 1,The juice of lemons makes fine punch.,6
+List 1,The box was thrown beside the parked truck.,7
+List 1,The hogs were fed chopped corn and garbage.,8
+List 1,Four hours of steady work faced us.,9
+List 1,A large size in stockings is hard to sell.,10
+List 1,The boy was there when the sun rose.,11
+List 1,A rod is used to catch pink salmon.,12
+List 1,The source of the huge river is the clear spring.,13
+List 1,Kick the ball straight and follow through.,14
+List 1,Help the woman get back to her feet.,15
+List 1,A pot of tea helps to pass the evening.,16
+List 1,Smokey fires lack flame and heat.,17
+List 1,The soft cushion broke the man's fall.,18
+List 1,The salt breeze came across from the sea.,19
+List 1,The girl at the booth sold fifty bonds.,20
+List 1,The small pup gnawed a hole in the sock.,21
+List 1,The fish twisted and turned on the bent hook.,22
+List 1,Press the pants and sew a button on the vest.,23
+List 1,The swan dive was far short of perfect.,24
+List 1,The beauty of the view stunned the young boy.,25
+List 1,Two blue fish swam in the tank.,26
+List 1,Her purse was full of useless trash.,27
+List 1,The colt reared and threw the tall rider.,28
+List 1,"It snowed, rained and hailed the same morning.",29
+List 1,Read verse out loud for pleasure.,30
+List 1,Hoist the load to your left shoulder.,31
+List 1,Take the winding path to reach the lake.,32
+List 1,Note closely the size of the gas tank.,33
+List 1,Wipe the grease off his dirty face.,34
+List 1,Mend the coat before you go out.,35
+List 1,The wrist was badly strained and hung limp.,36
+List 1,The stray cat gave birth to kittens.,37
+List 1,The young girl gave no clear response.,38
+List 1,The meal was cooked before the bell rang.,39
+List 1,What joy there is in living.,40
+List 1,A king ruled the state in the early days.,41
+List 1,The ship was torn apart on the sharp reef.,42
+List 1,Sickness kept him home the third week.,43
+List 1,The wide road shimmered in the hot sun.,44
+List 1,The lazy cow lay in the cool grass.,45
+List 1,Lift the square stone over the fence.,46
+List 1,The rope will bind the seven books at once.,47
+List 1,Hop over the fence and plunge in.,48
+List 1,The friendly gang left the drug store.,49
+List 1,Mesh wire keeps chicks inside.,50
+List 1,The frosty air passed through the coat.,51
+List 1,The crooked maze failed to fool the mouse.,52
+List 1,Adding fast leads to wrong sums.,53
+List 1,The show was a flop from the very start.,54
+List 1,A saw is a tool used for making boards.,55
+List 1,The wagon moved on well oiled wheels.,56
+List 1,March the soldiers past the next hill.,57
+List 1,A cup of sugar makes sweet fudge.,58
+List 1,Place a rosebush near the porch steps.,59
+List 1,Both lost their lives in the raging storm.,60
+List 1,We talked of the side show in the circus.,61
+List 1,Use a pencil to write the first draft.,62
+List 1,He ran half way to the hardware store.,63
+List 1,The clock struck to mark the third period.,64
+List 1,A small creek cut across the field.,65
+List 1,Cars and busses stalled in snow drifts.,66
+List 1,The set of china hit the floor with a crash.,67
+List 1,This is a grand season for hikes on the road.,68
+List 1,The dune rose from the edge of the water.,69
+List 1,Those words were the cue for the actor to leave.,70
+List 1,A yacht slid around the point into the bay.,71
+List 1,The two met while playing on the sand.,72
+List 1,The ink stain dried on the finished page.,73
+List 1,The walled town was seized without a fight.,74
+List 1,The lease ran out in sixteen weeks.,75
+List 1,A tame squirrel makes a nice pet.,76
+List 1,The horn of the car woke the sleeping cop.,77
+List 1,The heart beat strongly and with firm strokes.,78
+List 1,The pearl was worn in a thin silver ring.,79
+List 1,The fruit peel was cut in thick slices.,80
+List 1,The Navy attacked the big task force.,81
+List 1,See the cat glaring at the scared mouse.,82
+List 1,There are more than two factors here.,83
+List 1,The hat brim was wide and too droopy.,84
+List 1,The lawyer tried to lose his case.,85
+List 1,The grass curled around the fence post.,86
+List 1,Cut the pie into large parts.,87
+List 1,Men strive but seldom get rich.,88
+List 1,Always close the barn door tight.,89
+List 1,He lay prone and hardly moved a limb.,90
+List 1,The slush lay deep along the street.,91
+List 1,A wisp of cloud hung in the blue air.,92
+List 1,A pound of sugar costs more than eggs.,93
+List 1,The fin was sharp and cut the clear water.,94
+List 1,The play seems dull and quite stupid.,95
+List 1,Bail the boat to stop it from sinking.,96
+List 1,The term ended in late June that year.,97
+List 1,A tusk is used to make costly gifts.,98
+List 1,Ten pins were set in order.,99
+List 1,The bill was paid every third week.,100
