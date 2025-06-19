@@ -1,18 +1,18 @@
 import datetime
-import pedalboard as pb
-import pandas as pd
-import numpy as np
+import pedalboard as pb #pip install pedalboard
+import pandas as pd # pip install pandas
+import numpy as np # pip install numpy
 import os
 import random
-import soundfile as sf
-import sounddevice as sd
+import soundfile as sf # pip install soundfile
+import sounddevice as sd # pip install sounddevice
 
-from bayes_opt import BayesianOptimization
+from bayes_opt import BayesianOptimization # pip install bayesian-optimization
 from bayes_opt import acquisition
 
-import parselmouth
+import parselmouth # pip install praat-parselmouth 
 
-from psychopy import core, visual, event
+from psychopy import core, visual, event # pip install psychopy
 
 stimulus_index = 0
 win = None
